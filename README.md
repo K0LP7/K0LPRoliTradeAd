@@ -8,7 +8,7 @@
 <b>+Discord bot that lets you edit config file</b><br>
 <b>+Posts automatically every 25 minutes (default) for 24/7 </b>
 <h1>Documentation</h1> Right now use "!help" C:
-<h3>❗How to get Rolimons Token❗</h3>
+<h2>❗How to get Rolimons Token❗</h2>
 To get your _RoliVerification= you need Cookie editor addon like this: <br>
 https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm <br>
 <br>On Rolimons website open it and copy your _RoliVerification=
