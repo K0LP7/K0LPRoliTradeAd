@@ -1,10 +1,10 @@
 <h1>Rolimons Trade Ad Bot</h1>
-+3 modes:<br>
+<b>+3 modes:<br></b>
 -Autopick (randomly picks 4 items with value over "minvalue" number)<br>
 -Top4<br>
 -Manualpick<br>
-+Discord bot that lets you edit config file<br>
-+Posts automatically every 25 minutes (default) for 24/7
+<b>+Discord bot that lets you edit config file</b><br>
+<b>+Posts automatically every 25 minutes (default) for 24/7 </b>
 <h2>Documentation</h2> Right now use !help C:
 <h2>❗How to get Rolimons Token❗</h2>
 To get your _RoliVerification= you need Cookie editor addon like this: <br>
