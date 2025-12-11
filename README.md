@@ -38,4 +38,5 @@ To get your _RoliVerification= you need Cookie editor addon like this: <br>
 https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm <br>
 <br>On Rolimons website open it and copy your _RoliVerification=
 <img width="630" height="520" alt="image" src="https://github.com/user-attachments/assets/6465d6bf-9419-4f29-9a1c-83dccfca714f" /><br>
-<h2>To get info about commands for now use "!help" C:</h2>
+<h2>Help with commands</h2>
+At the moment only `!help` will help you :C
