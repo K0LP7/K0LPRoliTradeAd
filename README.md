@@ -1,13 +1,13 @@
 <h1>Rolimons Trade Ad Bot</h1>
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/64b6fa99-f725-47b0-a806-dd09d8a37b23" />
 <h1>About this bot:</h1>
-<h4>+3 modes:<br></h4>
+<b>+3 modes:<br></b>
 -Autopick (randomly picks 4 items with value over "minvalue" number)<br>
 -Top4<br>
 -Manualpick<br>
-<h4>+Not For Trade option so bot doesnt post items u want to keep</h4> <br>
-<h4>+Discord bot that lets you edit config file</h4><br>
-<h4>+Posts automatically every 25 minutes (default) for 24/7 </h4>
+<b>+Not For Trade option so bot doesnt post items u want to keep</b> <br>
+<b>+Discord bot that lets you edit config file</b><br>
+<b>+Posts automatically every 25 minutes (default) for 24/7 </b>
 <h1>Documentation</h1> Right now use "!help" C:
 <h2>❗How to get Rolimons Token❗</h2>
 To get your _RoliVerification= you need Cookie editor addon like this: <br>
