@@ -5,7 +5,7 @@
 -Manualpick<br>
 <b>+Discord bot that lets you edit config file</b><br>
 <b>+Posts automatically every 25 minutes (default) for 24/7 </b>
-<h2>Documentation</h2> Right now use !help C:
+<h2>Documentation</h2> Right now use "!help" C:
 <h2>❗How to get Rolimons Token❗</h2>
 To get your _RoliVerification= you need Cookie editor addon like this: <br>
 https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm <br>
