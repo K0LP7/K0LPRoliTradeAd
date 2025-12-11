@@ -9,7 +9,7 @@
 <b>+Discord bot that lets you edit config file</b><br>
 <b>+Posts automatically every 25 minutes (default) for 24/7 </b>
 <h1>Documentation</h1>
-<h2>What do I need so I can run this bot?</h2>
+<h2>Uhhh what do i need to run this ??</h2>
 
 - Discord Bot
 - A machine u can host this thing on
@@ -18,9 +18,9 @@
 <h2>How do I use this thing?</h2>
 
 - Make a Discord Bot 
-https://discord.com/developers/applications
+<br>https://discord.com/developers/applications
 - Get a Discord Bot invite link and invite it to your server
-https://youtube.com/clip/UgkxVbFqif0fQdPVUWKkz5qelvo1PnPwJ9eH?si=M_DX5bDQQV-Ccjla
+<br>https://youtube.com/clip/UgkxVbFqif0fQdPVUWKkz5qelvo1PnPwJ9eH?si=M_DX5bDQQV-Ccjla
 - Get a Discord Token by clicking this button
 <img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/aed532eb-bc2c-4573-bb6a-174306a17308" />
 
