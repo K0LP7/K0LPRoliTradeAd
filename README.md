@@ -17,6 +17,7 @@ At the moment only '!help' will help you :C<br>
 <h2>Uhhh what do i need to run this ??</h2>
 
 - Discord Bot
+- Python
 - A machine u can host this thing on
 - Your <b>ROLIMONS<b> Cookie
 - Your Roblox User ID
