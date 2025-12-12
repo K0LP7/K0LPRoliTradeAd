@@ -17,7 +17,7 @@ At the moment only '!help' will help you :C<br>
 
 - Discord Bot
 - A machine u can host this thing on
-- Your <b>ROLIMONS<b> Cookie <h6>ROLIMONS NOT ROBLOX</h6>
+- Your <b>ROLIMONS<b> Cookie
 - Your Roblox User ID
 <h2>How do I use this thing?</h2>
 
