@@ -34,7 +34,8 @@ At the moment only '!help' will help you :C<br>
 
 - I recommend to also get an app like Visual Studio Code so you can see errors if there are any
 - Edit your config file and paste AT LEAST your:
-  <br>!These arent valid so dont use them!<br>
+  <br>❗These arent valid so dont use them❗<br>
+  <br>❗Dont remove " and , ❗<br>
 - Discord Bot Token:<br>
   Example "TOKEN": "MJGR8IJGRJOFIJDdfsMg.AeedsgS.g3j2gi2dBMz4g4fd454gd3576346_B",<br>
 - Roblox User ID: <br>
