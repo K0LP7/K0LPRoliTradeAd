@@ -19,6 +19,7 @@ At the moment only '!help' will help you :C<br>
 - Discord Bot
 - Python
 - pip install requests
+- pip install discord
 - A machine u can host this thing on
 - Your <b>ROLIMONS<b> Cookie
 - Your Roblox User ID
@@ -35,8 +36,8 @@ At the moment only '!help' will help you :C<br>
 - Edit your config file and paste AT LEAST your:
 - Discord Bot Token:<br>
       "TOKEN": "YourDiscordToken",<br>
-- Roblox User ID:
-      "PlayerID":<br> 0 <br>
+- Roblox User ID: <br>
+      "PlayerID":0 <br>
 - Rolimons Token: <br>
       "RolimonsToken": "YourRolimonsToken",<br>
    
