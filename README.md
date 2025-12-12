@@ -37,6 +37,9 @@ Rolimons Token (`!set rolitoken <token>`)<br>
 Player ID (`!set playerid <playerid>`)
 
 
+
+<h6>This bot probably might have no huge updates in the future bc im lowkey gatekeeping few things 🤤</h6>
+
 <h2>❗How to get Rolimons Token❗</h2>
 To get your _RoliVerification= you need Cookie editor addon like this: <br>
 https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm <br>
