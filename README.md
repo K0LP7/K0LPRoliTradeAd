@@ -27,10 +27,10 @@ At the moment only '!help' will help you :C<br>
 <br>https://discord.com/developers/applications
 - Get a Discord Bot invite link and invite it to your server
 <br>https://youtube.com/clip/UgkxVbFqif0fQdPVUWKkz5qelvo1PnPwJ9eH?si=M_DX5bDQQV-Ccjla
-- Get a Discord Token by clicking this button
+- Get a Discord Bot Token by clicking this button
 <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/aed532eb-bc2c-4573-bb6a-174306a17308" />
 
-- Edit your config file and paste AT LEAST your Discord Token here: <br>
+- Edit your config file and paste AT LEAST your Discord Bot Token here: <br>
       "TOKEN": "YourDiscordToken",<br>
       
 - When you do that you should be able to edit your config file from discord :D
