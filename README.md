@@ -35,11 +35,12 @@ At the moment only '!help' will help you :C<br>
 - I recommend to also get an app like Visual Studio Code so you can see errors if there are any
 - Edit your config file and paste AT LEAST your:
 - Discord Bot Token:<br>
-      "TOKEN": "YourDiscordToken",<br>
+  Example "TOKEN": "MJGR8IJGRJOFIJDdfsMg.AeedsgS.g3j2gi2dBMz4g4fd454gd3576346_B",<br>
 - Roblox User ID: <br>
-      "PlayerID":0 <br>
+  Example: "PlayerID": 1067821187, <br>
 - Rolimons Cookie: <br>
-      "RolimonsToken": "YourRolimonsToken",<br>
+  Example "RolimonsToken": "9FDH9shffsfSDUYG87ysgf8GFSyfuJ9.eaJ2ZXJzaW9uIfJWFJ983HF43HGUYHDFGUSYGUYSDGJpZCI6MTA2NzgyMTE444xNzcwMTQ3MdfQ.qlUbTr4j4gADJiojoijeefeGEDGBxc", <br>
+These arent valid so dont check them 
    
 - When you do that you should be able to run tradeads.py :D
 - To make trade ads you need to add your:<br>
