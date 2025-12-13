@@ -13,7 +13,7 @@ Star this repo if youre using my bot 👀👀👀
 <b>+Discord bot that lets you edit config file</b><br>
 <b>+Posts automatically every 25 minutes (default) for 24/7 </b>
 <h1>Documentation</h1>
-Still w.i.p 
+Still w.i.p hopefully vid tutorial comming soon
 <h2>Commands</h2>
 At the moment only '!help' will help you :C<br>
 <h2>Uhhh what do i need to run this ??</h2>
