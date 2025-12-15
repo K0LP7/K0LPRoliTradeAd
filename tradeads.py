@@ -399,6 +399,8 @@ async def SetPlayerID(ctx, *, arg: str = None):
             config_file["PlayerID"] = int(arg)
             save_config_file(config_file)
             await ctx.send(f'✅ PlayerID has been set to: `{arg}`')
+            await ctx.send('✅ Use `!rolisetup phrase` to add your Rolimons cookie') 
+            print("PlayerID has been set! Use !rolisetup phrase to add your Rolimons cookie")
         else:
             await ctx.send('❌ This isnt a number')
     else:
@@ -609,14 +611,19 @@ async def set(ctx, *, arg: str = None):
         if config_file["PlayerID"] != 0:
             responseRPV = requests.post(f"https://api.rolimons.com/auth/v1/verifyphrase/{config_file['PlayerID']}")
             resRPV = responseRPV.json()
-            print(resRPV)
             if resRPV.get("success"):
-                await ctx.send("✅ Your Rolimons account has been added!")
                 config_file["RolimonsToken"] = ""
                 config_file["RolimonsToken"] = (f'{responseRGV.cookies.get("_RoliVerification")}')
                 save_config_file(config_file)
+                await ctx.send("✅ Your Rolimons account has been added!")
+                await ctx.send("✅ Reopen python file to start making trade ads!")
+                print("Reopen python file to start making trade ads!")
             if resRPV.get("code") == 7114:
-                await ctx.send("❌ Rolimons doesnt see your phrase! If its on your Roblox profile then try again soon!")
+                await ctx.send("❌ Rolimons doesnt see your phrase! If its on your Roblox profile then try entering this command again soon!")
+            else: 
+                await ctx.send("❌", resRPV)  
+                print(resRPV)
+      
         else:
             await ctx.send('❌ You need to add your Playerid! `!set playerid <number>`')
 
@@ -624,14 +631,18 @@ async def set(ctx, *, arg: str = None):
         if config_file["PlayerID"] != 0:
             responseRGV = requests.post(f"https://api.rolimons.com/auth/v1/confirmgamephraseverification/{config_file['PlayerID']}")
             resRGV = responseRGV.json()
-            await ctx.send(resRGV)
             if resRGV.get("success"):
-                await ctx.send("✅ Your Rolimons account has been added!")
                 config_file["RolimonsToken"] = ""  
                 config_file["RolimonsToken"] = (f'{responseRGV.cookies.get("_RoliVerification")}')
                 save_config_file(config_file)
-            if resRGV.get("code") == 7114:
-                await ctx.send("❌ Rolimons doesnt see your phrase! try again soon!")
+                await ctx.send("✅ Your Rolimons account has been added!")
+                await ctx.send("✅ Reopen python file to start making trade ads!")
+                print("Reopen python file to start making trade ads!")
+            if resRGV.get("code") == 7117:
+                await ctx.send("❌ Rolimons didnt get your phrase! Try entering this command again soon!")
+            else: 
+                await ctx.send("❌", resRGV)
+                print(resRGV)
         else:
             await ctx.send('❌ You need to add your Playerid! `!set playerid <number>`')
     else:
@@ -871,7 +882,7 @@ async def on_ready():
 
 if __name__ == "__main__":
     if not TOKEN:
-        print("No discord token plz fix")
+        print("No discord token detected. Please add it into your config file.")
         input("")
     else:
         bot.run(TOKEN)
