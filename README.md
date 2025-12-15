@@ -52,5 +52,5 @@ https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfdd
 <br>On Rolimons website open it and copy your _RoliVerification=
 <img width="630" height="520" alt="image" src="https://github.com/user-attachments/assets/6465d6bf-9419-4f29-9a1c-83dccfca714f" /><br>
 <br><br><br>
-<h6>This bot probably might have no huge updates in the future bc im lowkey <a href="https://imgur.com/Mje3c78">gatekeeping</a> few things 🤤 Dont ask me for it im just flexing 😜</h6>
+<h6>Fixes, small changes and Documentation updates might be comming soon. Dont expect for new features bc i might be gatekeping few for myself 😜</h6>
 
