@@ -672,10 +672,8 @@ async def help(ctx):
 #Start of Trade Ad maker
 #Started working on this on 2025/09/21 :D
 async def trade_ad_loop():
-    while True:
         config_file = load_config_file()
-        Logs =""
-
+    
         #Bot sending Errors/Trade ads to discord channel
         channel_id = config_file.get("DiscordChannel")
         channel = None
@@ -683,7 +681,9 @@ async def trade_ad_loop():
             channel = bot.get_channel(channel_id)
         else:
             print("Discord Channel not found!\nCheck if you typed correct id or use !set channel <id> to set it!")
-
+    while True:
+        config_file = load_config_file()
+        Logs =""
         data = {
             "offer_item_ids": config_file["OfferedItems"],
             "offer_robux": config_file["Robux"],
@@ -886,3 +886,4 @@ if __name__ == "__main__":
         input("")
     else:
         bot.run(TOKEN)
+
