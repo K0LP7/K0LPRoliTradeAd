@@ -29,14 +29,19 @@ At the moment only '!help' will help you :C<br>
 
 - Make a Discord Bot 
 <br>https://discord.com/developers/applications
-- Get a Discord Bot invite link and invite it to your server
-<br>https://youtube.com/clip/UgkxVbFqif0fQdPVUWKkz5qelvo1PnPwJ9eH?si=M_DX5bDQQV-Ccjla
+
 - Get a Discord Bot Token by clicking this button
 <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/aed532eb-bc2c-4573-bb6a-174306a17308" />
 
 - In Bot page scroll a bit down and turn these 3 on:<br>
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/7bccf870-1fb0-4551-8b12-683682c57896" />
 
+- Add Administrator Permissions, get a Install Link, and invite it to your server
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9b2914bb-503d-4051-a9d5-7b240657d179" />
+
+
+- Get a Discord Bot invite link and invite it to your server
+<br>https://youtube.com/clip/UgkxVbFqif0fQdPVUWKkz5qelvo1PnPwJ9eH?si=M_DX5bDQQV-Ccjla
 
 <h2>❗How to get Rolimons Cookie❗</h2>
 Use !rolisetup phrase to get your rolimons verification phrase.<br>
