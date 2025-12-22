@@ -1,4 +1,4 @@
-Im still working on this. Ussualy updates are every 1week or 2 weeks if im busy<br>
+Im still working on this. Ussualy updates are every 1 week or 2 weeks if im busy<br>
 If there happens to be any bug with the bot code, u can dm me on discord: k0lp<br>
 <h1>Rolimons Automatic Trade Ad Bot</h1>
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/64b6fa99-f725-47b0-a806-dd09d8a37b23" /><br>
