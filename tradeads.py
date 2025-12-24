@@ -613,7 +613,7 @@ async def set(ctx, *, arg: str = None):
             resRPV = responseRPV.json()
             if resRPV.get("success"):
                 config_file["RolimonsToken"] = ""
-                config_file["RolimonsToken"] = (f'{responseRGV.cookies.get("_RoliVerification")}')
+                config_file["RolimonsToken"] = (f'{responseRPV.cookies.get("_RoliVerification")}')
                 save_config_file(config_file)
                 await ctx.send("✅ Your Rolimons account has been added!")
                 await ctx.send("✅ Reopen python file to start making trade ads!")
@@ -886,5 +886,6 @@ if __name__ == "__main__":
         input("")
     else:
         bot.run(TOKEN)
+
 
 
