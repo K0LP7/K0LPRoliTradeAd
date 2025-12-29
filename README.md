@@ -21,5 +21,7 @@ Made to be running in the background 24/7. Big update with !inv command this wee
 - A machine u can host this thing on
 - Your <b>ROLIMONS<b> Cookie
 - Your Roblox User ID
+  
+<h6> If u want to donate me then send trades to api_cats 👀👀👀👀 </h6>
 
 <h6>Features like automatically picking requested items will NEVER be released publicly bc i dont want to polute trade ads with absolute crap :P </h6>
